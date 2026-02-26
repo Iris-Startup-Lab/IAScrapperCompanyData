@@ -1,0 +1,5 @@
+No usar facebook para el scraping html (usar playwright)
+
+Hay varias empresas con nombres ligeramente distintos (Blue Viajes vs Blue viaje)
+Suele haber más datos de contacto en facebook que en sus páginas web
+Suele 
